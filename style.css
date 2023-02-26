@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:Playfair Display;
+    font-size: 32px;
+}
+
+.top-container{
+    background-color: #FEFBE9;    
+}
+
+.pos
+{
+
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: dimgrey;
+    font-size: 95px;
+}
+.cld
+{
+    position: relative;
+    top: 100px;
+    right: 400px;
+}
+.cloud2
+{
+    position: relative;
+    top: 200px;
+    left: 350px;
+}
+.second-text
+{
+    font-family: 'Crimson Pro', serif;
+}
+
+.font11
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    color: #C92C6D;
+}
+
+.abs
+{
+    font-family: 'Gloock', serif;
+    color: dimgrey;
+}
+.tbl
+{
+    padding: 80px;
+}
+
+.bottom-container
+{
+    background-color: cadetblue;
+    margin: 20px;
+}
+
