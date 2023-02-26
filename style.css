@@ -49,6 +49,7 @@ body{
 .tbl
 {
     padding: 80px;
+    margin: 20px;
 }
 
 .bottom-container
@@ -56,4 +57,10 @@ body{
     background-color: cadetblue;
     margin: 20px;
 }
+
+.tbl1
+{
+    margin: 20px;
+}
+
 
